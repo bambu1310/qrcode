@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7d1a2e300d2a275a9e1c95b6ee6693e9267bf81">
+        <dex dex="E:\android\zxing-android-embedded-master\sample\build\intermediates\pre-dexed\debug\classes_36a9207eed84dccdee4439d6281a5a85948a6815.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":zxing-android-embedded"><source path="E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="E:\android\zxing-android-embedded-master\demo\src\main\assets"/><source path="E:\android\zxing-android-embedded-master\demo\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\android\zxing-android-embedded-master\demo\src\debug\assets"/></dataSet></merger>

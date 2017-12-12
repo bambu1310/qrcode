@@ -1,10 +1,11 @@
 buildscript {
     repositories {
         jcenter()
+        google()
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.3.3'
+        classpath 'com.android.tools.build:gradle:3.0.1'
         classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.0'
     }
 }
@@ -21,4 +22,8 @@ subprojects {
     ext.androidBuildTools = '25.0.2'
     ext.androidTargetSdk = 25
     ext.zxingCore = 'com.google.zxing:core:3.3.0'
+}
+
+repositories {
+    google()
 }

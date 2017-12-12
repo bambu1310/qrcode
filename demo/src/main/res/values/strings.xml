@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">ScanAndCheck</string>
+    <string name="title_name">Quét mã vạch</string>
+    <string name="title_scan">Quét</string>
+    <string name="title_history">Lịch sử</string>
+    <string name="title_favorite">Yêu thích</string>
+    <string name="title_favorite_off">Bỏ yêu thích</string>
+    <string name="title_more">Khác</string>
+    <string name="title_detail">Chi tiết</string>
+    <string name="title_loading">Đang tải</string>
+    <string name="title_setting">Cài đặt</string>
+    <string name="title_language">Ngôn ngữ</string>
+    <string name="title_business_info">Thông tin doanh nghiệp</string>
+    <string name="title_product_info">Thông tin sản phẩm</string>
+    <string name="scan_from_fragment">Scan</string>
+    <string name="zxing_msg_default">Đặt mã vạch bên trong hình chữ nhật ngắm để quét.</string>
+    <string name="msg_update_language">Ngôn ngữ: Tiếng Việt</string>
+    <string name="msg_no_internet">Mạng không khả dụng</string>
+    <string name="msg_no_data">Không có dữ liệu</string>
+    <string name="msg_no_get_image">Không lấy được dữ liệu ảnh</string>
+
+    <string name="title_name_en">Scanner</string>
+    <string name="title_scan_en">Scan</string>
+    <string name="title_history_en">History</string>
+    <string name="title_favorite_en">Favorite</string>
+    <string name="title_favorite_off_en">Unfavorite</string>
+    <string name="title_more_en">More</string>
+    <string name="title_detail_en">Detail</string>
+    <string name="title_loading_en">Loading</string>
+    <string name="title_setting_en">Setting</string>
+    <string name="title_language_en">Language</string>
+    <string name="title_business_info_en">Business Info</string>
+    <string name="title_product_info_en">Product Info</string>
+    <string name="scan_from_fragment_en">Scan</string>
+    <string name="zxing_msg_default_en">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="msg_update_language_en">Language: English</string>
+    <string name="msg_no_internet_en">No internet</string>
+    <string name="msg_no_data_en">No data</string>
+    <string name="msg_no_get_image_en">Can not get image</string>
+</resources>

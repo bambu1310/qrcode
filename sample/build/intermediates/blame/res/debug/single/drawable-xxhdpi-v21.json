@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\android\\zxing-android-embedded-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v21\\ic_notifications_black_24dp.xml",
+        "source": "E:\\android\\zxing-android-embedded-master\\sample\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\android\\zxing-android-embedded-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v21\\ic_home_black_24dp.xml",
+        "source": "E:\\android\\zxing-android-embedded-master\\sample\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\android\\zxing-android-embedded-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v21\\ic_dashboard_black_24dp.xml",
+        "source": "E:\\android\\zxing-android-embedded-master\\sample\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi-v21\\ic_dashboard_black_24dp.xml"
+    }
+]
