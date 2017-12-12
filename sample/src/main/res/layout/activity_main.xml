@@ -2,25 +2,60 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white_trans"
     tools:context="example.zxing.MainActivity">
 
-    <LinearLayout
+
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:paddingLeft="@dimen/activity_horizontal_margin"
-        android:paddingRight="@dimen/activity_horizontal_margin"
-        android:paddingTop="@dimen/activity_vertical_margin"
-        android:paddingBottom="@dimen/activity_vertical_margin">
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/border"
+            android:hint="Username"
+            android:inputType="text"
+            android:maxLines="1"
+            android:textColor="#903A89CF"
+            android:textColorHint="#903A89CF"
+            android:paddingLeft="20px"
+            android:paddingRight="20px"/>
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_alignLeft="@+id/username"
+            android:layout_alignStart="@+id/username"
+            android:layout_below="@+id/username"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/border"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            android:textColor="#903A89CF"
+            android:textColorHighlight="#903A89CF"
+            android:textColorHint="#903A89CF"
+            android:paddingLeft="20px"
+            android:paddingRight="20px"/>
 
         <Button
-            android:id="@+id/button4"
-            android:layout_width="357dp"
-            android:layout_height="wrap_content"
-            android:onClick="scanToolbar_1"
-            android:text="SCAN" />
+            android:id="@+id/button"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_alignLeft="@+id/password"
+            android:layout_alignParentBottom="true"
+            android:layout_alignStart="@+id/password"
+            android:layout_below="@+id/password"
+            android:layout_marginTop="25dp"
+            android:background="#ffcc0000"
+            android:text="Login"
+            android:onClick="login"/>
 
-    </LinearLayout>
-
-
+    </RelativeLayout>
 </ScrollView>

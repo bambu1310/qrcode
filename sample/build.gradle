@@ -51,6 +51,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+
+    useLibrary 'org.apache.http.legacy'
 }
 
 
@@ -61,8 +63,11 @@ dependencies {
 
     // For development purposes only
     // https://github.com/square/leakcanary
-    compile 'com.android.support:appcompat-v7:25.2.0'
+    //compile 'com.android.support:appcompat-v7:25.2.0'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:design:25.3.1'
     compile 'com.android.support:support-v13:25.2.0'
-    debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5'
-    releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    /*debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5'
+    releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5'*/
 }
