@@ -1,333 +1,333 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:2:1-81:12
-INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:2:1-81:12
-INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:2:1-81:12
-MERGED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:1-55:12
-MERGED from [com.android.support:design:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8edb490d781b1fd6fdfe8c4e8dfab6d5\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e5d96b5374b5117dd456b8083c24a138\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-v13:25.2.0] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\bf3e484420208076812d718745740182\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:transition:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\3e6fa5428bc0541c2cf287058912092c\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0c3230067225af55adcaf1f3e701d5ee\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\4975715cb75901c498906ee5807293e2\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\905486c451cd1d3f0bb8236b7156a46e\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\e15dd58165f0fe88b9f36ce7ca9681ab\AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\4becb1dfb1b5deee118824f4503473d5\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2bbbae3de1d9817839dbc7df43f55ae5\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\7bf422178d73390737636bb09f7b0f9c\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\218240f0fa837f80e6c0ceb32a25b5eb\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\888c94e1898e6fe393e73da6b05df11d\AndroidManifest.xml:17:1-31:12
-INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:2:1-81:12
-INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:2:1-81:12
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:2:1-81:12
+MERGED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:1-55:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ce13dc74dd05fc9803d1914122c6c57\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a9802d0043cd1f760235b27a8fdadb21\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\95191c4ff16285c7fb0fba01edfa211f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\7db9bf7cd5c3c8d1a19beb23f166eeee\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\54390ca5aa6fb56535c24cceadfb6d86\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\46158dc486afc601490707c6d913797c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cd8eae4f6cf02bc6b44bd00af297a62e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d29c0134cd927e23997368bdc3b9737e\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d63ad3caa413854852f963d82e7cba21\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d0915dca7f38b0a9f9ef497a53b09e1d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\5626d54ad3591635d106fcd29804f5a5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ba9ba0b5dea4c54fc7001903a212fd7a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\86bff4f830161084ab3a79f7a2db5b16\AndroidManifest.xml:17:1-31:12
+INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:2:1-81:12
 	package
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:3:5-28
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:3:5-28
 	android:versionName
-		INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:2:1-81:12
-		INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:2:1-81:12
+		INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:2:1-81:12
-		INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:2:1-81:12
+		INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.CAMERA
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:5:5-64
-MERGED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-65
-MERGED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-65
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:5:5-64
+MERGED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-65
+MERGED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-65
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:5:22-62
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:5:22-62
 uses-permission#android.permission.INTERNET
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:6:5-67
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:6:22-64
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:7:5-79
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:7:22-76
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.VIBRATE
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:8:5-65
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:8:5-65
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:8:22-63
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:8:22-63
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:9:5-75
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:9:5-75
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:9:22-72
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:9:22-72
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:10:5-79
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:10:22-76
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:10:22-76
 application
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:12:5-79:19
-MERGED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:45:5-53:19
-MERGED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:45:5-53:19
-MERGED from [com.android.support:design:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8edb490d781b1fd6fdfe8c4e8dfab6d5\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8edb490d781b1fd6fdfe8c4e8dfab6d5\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e5d96b5374b5117dd456b8083c24a138\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e5d96b5374b5117dd456b8083c24a138\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v13:25.2.0] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\bf3e484420208076812d718745740182\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v13:25.2.0] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\bf3e484420208076812d718745740182\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\3e6fa5428bc0541c2cf287058912092c\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\3e6fa5428bc0541c2cf287058912092c\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0c3230067225af55adcaf1f3e701d5ee\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0c3230067225af55adcaf1f3e701d5ee\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\4975715cb75901c498906ee5807293e2\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\4975715cb75901c498906ee5807293e2\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\905486c451cd1d3f0bb8236b7156a46e\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\905486c451cd1d3f0bb8236b7156a46e\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\4becb1dfb1b5deee118824f4503473d5\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\4becb1dfb1b5deee118824f4503473d5\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2bbbae3de1d9817839dbc7df43f55ae5\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2bbbae3de1d9817839dbc7df43f55ae5\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\7bf422178d73390737636bb09f7b0f9c\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\7bf422178d73390737636bb09f7b0f9c\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\218240f0fa837f80e6c0ceb32a25b5eb\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\218240f0fa837f80e6c0ceb32a25b5eb\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\888c94e1898e6fe393e73da6b05df11d\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\888c94e1898e6fe393e73da6b05df11d\AndroidManifest.xml:29:5-20
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:12:5-79:19
+MERGED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:45:5-53:19
+MERGED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:45:5-53:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ce13dc74dd05fc9803d1914122c6c57\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ce13dc74dd05fc9803d1914122c6c57\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a9802d0043cd1f760235b27a8fdadb21\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a9802d0043cd1f760235b27a8fdadb21\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\95191c4ff16285c7fb0fba01edfa211f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\95191c4ff16285c7fb0fba01edfa211f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\7db9bf7cd5c3c8d1a19beb23f166eeee\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\7db9bf7cd5c3c8d1a19beb23f166eeee\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\54390ca5aa6fb56535c24cceadfb6d86\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\54390ca5aa6fb56535c24cceadfb6d86\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\46158dc486afc601490707c6d913797c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\46158dc486afc601490707c6d913797c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cd8eae4f6cf02bc6b44bd00af297a62e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cd8eae4f6cf02bc6b44bd00af297a62e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d63ad3caa413854852f963d82e7cba21\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d63ad3caa413854852f963d82e7cba21\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d0915dca7f38b0a9f9ef497a53b09e1d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d0915dca7f38b0a9f9ef497a53b09e1d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\5626d54ad3591635d106fcd29804f5a5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\5626d54ad3591635d106fcd29804f5a5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ba9ba0b5dea4c54fc7001903a212fd7a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ba9ba0b5dea4c54fc7001903a212fd7a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\86bff4f830161084ab3a79f7a2db5b16\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\86bff4f830161084ab3a79f7a2db5b16\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:16:9-41
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:16:9-41
 	android:icon
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:15:9-38
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:15:9-38
 	android:allowBackup
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:14:9-35
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:14:9-35
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:13:9-42
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:13:9-42
 activity#example.zxing.MainActivity
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:17:9-26:20
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:17:9-26:20
 	android:label
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:19:13-45
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:19:13-45
 	android:theme
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:20:13-60
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:20:13-60
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:18:13-41
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:18:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:22:17-69
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:22:25-66
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:24:17-77
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:24:27-74
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:24:27-74
 activity#example.zxing.ScanActivity
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:28:9-34:68
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:28:9-34:68
 	android:screenOrientation
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:31:13-49
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:31:13-49
 	android:clearTaskOnLaunch
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:30:13-45
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:30:13-45
 	android:stateNotNeeded
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:32:13-42
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:32:13-42
 	android:windowSoftInputMode
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:34:13-56
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:34:13-56
 	android:theme
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:33:13-57
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:33:13-57
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:29:13-41
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:29:13-41
 activity#example.zxing.HistoryActivity
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:36:9-42:68
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:36:9-42:68
 	android:screenOrientation
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:39:13-49
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:39:13-49
 	android:clearTaskOnLaunch
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:38:13-45
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:38:13-45
 	android:stateNotNeeded
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:40:13-42
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:40:13-42
 	android:windowSoftInputMode
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:42:13-56
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:42:13-56
 	android:theme
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:41:13-57
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:41:13-57
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:37:13-44
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:37:13-44
 activity#example.zxing.FavoriteActivity
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:44:9-50:68
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:44:9-50:68
 	android:screenOrientation
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:47:13-49
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:47:13-49
 	android:clearTaskOnLaunch
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:46:13-45
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:46:13-45
 	android:stateNotNeeded
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:48:13-42
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:48:13-42
 	android:windowSoftInputMode
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:50:13-56
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:50:13-56
 	android:theme
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:49:13-57
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:49:13-57
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:45:13-45
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:45:13-45
 activity#example.zxing.MoreActivity
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:51:9-57:68
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:51:9-57:68
 	android:screenOrientation
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:54:13-49
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:54:13-49
 	android:clearTaskOnLaunch
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:53:13-45
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:53:13-45
 	android:stateNotNeeded
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:55:13-42
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:55:13-42
 	android:windowSoftInputMode
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:57:13-56
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:57:13-56
 	android:theme
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:56:13-57
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:56:13-57
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:52:13-41
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:52:13-41
 activity#example.zxing.DetailActivity
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:58:9-64:68
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:58:9-64:68
 	android:screenOrientation
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:61:13-49
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:61:13-49
 	android:clearTaskOnLaunch
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:60:13-45
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:60:13-45
 	android:stateNotNeeded
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:62:13-42
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:62:13-42
 	android:windowSoftInputMode
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:64:13-56
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:64:13-56
 	android:theme
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:63:13-57
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:63:13-57
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:59:13-43
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:59:13-43
 activity#example.zxing.MoreDetailActivity
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:65:9-71:68
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:65:9-71:68
 	android:screenOrientation
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:68:13-49
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:68:13-49
 	android:clearTaskOnLaunch
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:67:13-45
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:67:13-45
 	android:stateNotNeeded
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:69:13-42
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:69:13-42
 	android:windowSoftInputMode
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:71:13-56
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:71:13-56
 	android:theme
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:70:13-57
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:70:13-57
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:66:13-47
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:66:13-47
 activity#example.zxing.LanguageActivity
-ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:72:9-78:68
+ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:72:9-78:68
 	android:screenOrientation
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:75:13-49
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:75:13-49
 	android:clearTaskOnLaunch
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:74:13-45
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:74:13-45
 	android:stateNotNeeded
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:76:13-42
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:76:13-42
 	android:windowSoftInputMode
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:78:13-56
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:78:13-56
 	android:theme
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:77:13-57
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:77:13-57
 	android:name
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml:73:13-45
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml:73:13-45
 uses-sdk
-INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml
-INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml
-MERGED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:5-43
-MERGED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:5-43
-MERGED from [com.android.support:design:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8edb490d781b1fd6fdfe8c4e8dfab6d5\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8edb490d781b1fd6fdfe8c4e8dfab6d5\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e5d96b5374b5117dd456b8083c24a138\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e5d96b5374b5117dd456b8083c24a138\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v13:25.2.0] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\bf3e484420208076812d718745740182\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:support-v13:25.2.0] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\bf3e484420208076812d718745740182\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:transition:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\3e6fa5428bc0541c2cf287058912092c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\3e6fa5428bc0541c2cf287058912092c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0c3230067225af55adcaf1f3e701d5ee\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0c3230067225af55adcaf1f3e701d5ee\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\4975715cb75901c498906ee5807293e2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\4975715cb75901c498906ee5807293e2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\905486c451cd1d3f0bb8236b7156a46e\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\905486c451cd1d3f0bb8236b7156a46e\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\e15dd58165f0fe88b9f36ce7ca9681ab\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\e15dd58165f0fe88b9f36ce7ca9681ab\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\4becb1dfb1b5deee118824f4503473d5\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\4becb1dfb1b5deee118824f4503473d5\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2bbbae3de1d9817839dbc7df43f55ae5\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2bbbae3de1d9817839dbc7df43f55ae5\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\7bf422178d73390737636bb09f7b0f9c\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\7bf422178d73390737636bb09f7b0f9c\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\218240f0fa837f80e6c0ceb32a25b5eb\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\218240f0fa837f80e6c0ceb32a25b5eb\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\888c94e1898e6fe393e73da6b05df11d\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\888c94e1898e6fe393e73da6b05df11d\AndroidManifest.xml:21:5-23:58
-INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml
-INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml
+INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml
+INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml
+MERGED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:5-43
+MERGED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ce13dc74dd05fc9803d1914122c6c57\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ce13dc74dd05fc9803d1914122c6c57\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a9802d0043cd1f760235b27a8fdadb21\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a9802d0043cd1f760235b27a8fdadb21\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\95191c4ff16285c7fb0fba01edfa211f\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\95191c4ff16285c7fb0fba01edfa211f\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:transition:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\7db9bf7cd5c3c8d1a19beb23f166eeee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\7db9bf7cd5c3c8d1a19beb23f166eeee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\54390ca5aa6fb56535c24cceadfb6d86\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\54390ca5aa6fb56535c24cceadfb6d86\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\46158dc486afc601490707c6d913797c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\46158dc486afc601490707c6d913797c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cd8eae4f6cf02bc6b44bd00af297a62e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cd8eae4f6cf02bc6b44bd00af297a62e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d29c0134cd927e23997368bdc3b9737e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d29c0134cd927e23997368bdc3b9737e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d63ad3caa413854852f963d82e7cba21\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d63ad3caa413854852f963d82e7cba21\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d0915dca7f38b0a9f9ef497a53b09e1d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d0915dca7f38b0a9f9ef497a53b09e1d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\5626d54ad3591635d106fcd29804f5a5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\5626d54ad3591635d106fcd29804f5a5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ba9ba0b5dea4c54fc7001903a212fd7a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ba9ba0b5dea4c54fc7001903a212fd7a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\86bff4f830161084ab3a79f7a2db5b16\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\86bff4f830161084ab3a79f7a2db5b16\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml
+INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8edb490d781b1fd6fdfe8c4e8dfab6d5\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ce13dc74dd05fc9803d1914122c6c57\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml
-		INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml
-		ADDED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml
-		INJECTED from E:\android\zxing-android-embedded-master\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml
+		ADDED from E:\android\qrcode\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\android\qrcode\sample\src\main\AndroidManifest.xml
 uses-feature#android.hardware.camera
-ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:5-26:36
+ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:5-26:36
 	android:required
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:9-33
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:9-33
 	android:name
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:9-47
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:9-47
 uses-feature#android.hardware.camera.front
-ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:5-29:36
+ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:5-29:36
 	android:required
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:9-33
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:9-33
 	android:name
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:9-53
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:9-53
 uses-feature#android.hardware.camera.autofocus
-ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:5-34:36
+ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:5-34:36
 	android:required
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:34:9-33
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:34:9-33
 	android:name
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:33:9-57
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:33:9-57
 uses-feature#android.hardware.camera.flash
-ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:35:5-37:36
+ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:35:5-37:36
 	android:required
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:37:9-33
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:37:9-33
 	android:name
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:9-53
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:9-53
 uses-feature#android.hardware.screen.landscape
-ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:38:5-40:36
+ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:38:5-40:36
 	android:required
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:40:9-33
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:40:9-33
 	android:name
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:39:9-57
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:39:9-57
 uses-feature#android.hardware.wifi
-ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:41:5-43:36
+ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:41:5-43:36
 	android:required
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:43:9-33
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:43:9-33
 	android:name
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:42:9-45
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:42:9-45
 activity#com.journeyapps.barcodescanner.CaptureActivity
-ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:46:9-52:63
+ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:46:9-52:63
 	android:screenOrientation
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:49:13-56
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:49:13-56
 	android:clearTaskOnLaunch
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:48:13-45
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:48:13-45
 	android:stateNotNeeded
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:50:13-42
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:50:13-42
 	android:windowSoftInputMode
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:52:13-60
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:52:13-60
 	android:theme
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:51:13-54
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:51:13-54
 	android:name
-		ADDED from [:zxing-android-embedded] E:\android\zxing-android-embedded-master\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:47:13-74
+		ADDED from [:zxing-android-embedded] E:\android\qrcode\zxing-android-embedded\build\intermediates\manifests\full\debug\AndroidManifest.xml:47:13-74
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8edb490d781b1fd6fdfe8c4e8dfab6d5\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e5d96b5374b5117dd456b8083c24a138\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e5d96b5374b5117dd456b8083c24a138\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\3e6fa5428bc0541c2cf287058912092c\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\3e6fa5428bc0541c2cf287058912092c\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0c3230067225af55adcaf1f3e701d5ee\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\0c3230067225af55adcaf1f3e701d5ee\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\4975715cb75901c498906ee5807293e2\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\4975715cb75901c498906ee5807293e2\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\905486c451cd1d3f0bb8236b7156a46e\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\905486c451cd1d3f0bb8236b7156a46e\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\e15dd58165f0fe88b9f36ce7ca9681ab\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\e15dd58165f0fe88b9f36ce7ca9681ab\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\4becb1dfb1b5deee118824f4503473d5\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\4becb1dfb1b5deee118824f4503473d5\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2bbbae3de1d9817839dbc7df43f55ae5\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2bbbae3de1d9817839dbc7df43f55ae5\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\7bf422178d73390737636bb09f7b0f9c\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\7bf422178d73390737636bb09f7b0f9c\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\218240f0fa837f80e6c0ceb32a25b5eb\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\218240f0fa837f80e6c0ceb32a25b5eb\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\888c94e1898e6fe393e73da6b05df11d\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\888c94e1898e6fe393e73da6b05df11d\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ce13dc74dd05fc9803d1914122c6c57\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a9802d0043cd1f760235b27a8fdadb21\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a9802d0043cd1f760235b27a8fdadb21\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\7db9bf7cd5c3c8d1a19beb23f166eeee\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\7db9bf7cd5c3c8d1a19beb23f166eeee\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\54390ca5aa6fb56535c24cceadfb6d86\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\54390ca5aa6fb56535c24cceadfb6d86\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\46158dc486afc601490707c6d913797c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\46158dc486afc601490707c6d913797c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cd8eae4f6cf02bc6b44bd00af297a62e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cd8eae4f6cf02bc6b44bd00af297a62e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d29c0134cd927e23997368bdc3b9737e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d29c0134cd927e23997368bdc3b9737e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d63ad3caa413854852f963d82e7cba21\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d63ad3caa413854852f963d82e7cba21\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d0915dca7f38b0a9f9ef497a53b09e1d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\d0915dca7f38b0a9f9ef497a53b09e1d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\5626d54ad3591635d106fcd29804f5a5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\5626d54ad3591635d106fcd29804f5a5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ba9ba0b5dea4c54fc7001903a212fd7a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ba9ba0b5dea4c54fc7001903a212fd7a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\86bff4f830161084ab3a79f7a2db5b16\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\86bff4f830161084ab3a79f7a2db5b16\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8edb490d781b1fd6fdfe8c4e8dfab6d5\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ce13dc74dd05fc9803d1914122c6c57\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\cuongnx6387\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8edb490d781b1fd6fdfe8c4e8dfab6d5\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\BAMBU\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ce13dc74dd05fc9803d1914122c6c57\AndroidManifest.xml:26:9-47

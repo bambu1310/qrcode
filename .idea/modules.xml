@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScanAndCheck/demo.iml" filepath="$PROJECT_DIR$/ScanAndCheck/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qrcode.iml" filepath="$PROJECT_DIR$/qrcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-nosupport/sample-nosupport.iml" filepath="$PROJECT_DIR$/sample-nosupport/sample-nosupport.iml" />
       <module fileurl="file://$PROJECT_DIR$/weather/weather.iml" filepath="$PROJECT_DIR$/weather/weather.iml" />
       <module fileurl="file://$PROJECT_DIR$/zxing-android-embedded/zxing-android-embedded.iml" filepath="$PROJECT_DIR$/zxing-android-embedded/zxing-android-embedded.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zxing-android-embedded-master.iml" filepath="$PROJECT_DIR$/zxing-android-embedded-master.iml" />
     </modules>
   </component>
 </project>

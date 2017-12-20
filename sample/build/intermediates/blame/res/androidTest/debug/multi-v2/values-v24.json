@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\android\\zxing-android-embedded-master\\sample\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "E:\\android\\qrcode\\sample\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\cuongnx6387\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\e5d96b5374b5117dd456b8083c24a138\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\BAMBU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a9802d0043cd1f760235b27a8fdadb21\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

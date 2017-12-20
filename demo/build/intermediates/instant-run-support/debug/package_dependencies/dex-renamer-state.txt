@@ -1,4 +1,0 @@
-#Tue Dec 05 11:55:24 ICT 2017
-base.0=E\:\\android\\zxing-android-embedded-master\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\10
-path.0=classes.dex
-renamed.0=classes.dex

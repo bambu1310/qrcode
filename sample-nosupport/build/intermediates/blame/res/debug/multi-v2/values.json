@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\android\\qrcode\\sample-nosupport\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "E:\\android\\zxing-android-embedded-master\\zxing-android-embedded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "source": "E:\\android\\qrcode\\zxing-android-embedded\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,19,20,21,22,23,24,25,26,27,28,29,30,31,32",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,14 +23,14 @@
                     }
                 },
                 {
-                    "source": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\src\\main\\res\\values\\styles.xml",
+                    "source": "E:\\android\\qrcode\\sample-nosupport\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "92",
+                        "startOffsets": "95",
                         "endLines": "5",
                         "endColumns": "12",
-                        "endOffsets": "152"
+                        "endOffsets": "157"
                     },
                     "to": {
                         "startLines": "38",
@@ -42,13 +42,13 @@
                     }
                 },
                 {
-                    "source": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\src\\main\\res\\values\\dimens.xml",
+                    "source": "E:\\android\\qrcode\\sample-nosupport\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
-                        "startOffsets": "127,185",
+                        "startOffsets": "130,189",
                         "endColumns": "57,55",
-                        "endOffsets": "180,236"
+                        "endOffsets": "183,240"
                     },
                     "to": {
                         "startLines": "19,20",
@@ -59,13 +59,13 @@
                     }
                 },
                 {
-                    "source": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\src\\main\\res\\values\\strings.xml",
+                    "source": "E:\\android\\qrcode\\sample-nosupport\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "3,5,4,6",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "137,241,187,299",
+                        "startOffsets": "140,246,191,305",
                         "endColumns": "49,57,53,65",
-                        "endOffsets": "182,294,236,360"
+                        "endOffsets": "185,299,240,366"
                     },
                     "to": {
                         "startLines": "30,31,32,33",

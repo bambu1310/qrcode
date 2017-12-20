@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\android\\zxing-android-embedded-master\\sample\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-id\\values-id.xml",
+            "outputFile": "E:\\android\\qrcode\\sample\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-id\\values-id.xml",
             "map": [
                 {
-                    "source": "E:\\android\\zxing-android-embedded-master\\zxing-android-embedded\\build\\intermediates\\bundles\\debug\\res\\values-id\\values-id.xml",
+                    "source": "E:\\android\\qrcode\\zxing-android-embedded\\build\\intermediates\\bundles\\debug\\res\\values-id\\values-id.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

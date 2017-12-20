@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\android\\zxing-android-embedded-master\\sample\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sv\\values-sv.xml",
+            "outputFile": "E:\\android\\qrcode\\sample\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sv\\values-sv.xml",
             "map": [
                 {
-                    "source": "E:\\android\\zxing-android-embedded-master\\zxing-android-embedded\\build\\intermediates\\bundles\\debug\\res\\values-sv\\values-sv.xml",
+                    "source": "C:\\Users\\BAMBU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a9802d0043cd1f760235b27a8fdadb21\\res\\values-sv\\values-sv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,269,392,495,606,691,793,906,982,1058,1138,1244,1344,1440,1545,1647,1749,1866,1968,2047",
+                        "endColumns": "105,107,122,102,110,84,101,112,75,75,79,105,99,95,104,101,101,116,101,78,100",
+                        "endOffsets": "156,264,387,490,601,686,788,901,977,1053,1133,1239,1339,1435,1540,1642,1744,1861,1963,2042,2143"
+                    }
+                },
+                {
+                    "source": "E:\\android\\qrcode\\zxing-android-embedded\\build\\intermediates\\bundles\\debug\\res\\values-sv\\values-sv.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "2148,2207,2254,2360",
                         "endColumns": "58,46,105,113",
                         "endOffsets": "2202,2249,2355,2469"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\cuongnx6387\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\e5d96b5374b5117dd456b8083c24a138\\res\\values-sv\\values-sv.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,161,269,392,495,606,691,793,906,982,1058,1138,1244,1344,1440,1545,1647,1749,1866,1968,2047",
-                        "endColumns": "105,107,122,102,110,84,101,112,75,75,79,105,99,95,104,101,101,116,101,78,100",
-                        "endOffsets": "156,264,387,490,601,686,788,901,977,1053,1133,1239,1339,1435,1540,1642,1744,1861,1963,2042,2143"
                     }
                 }
             ]

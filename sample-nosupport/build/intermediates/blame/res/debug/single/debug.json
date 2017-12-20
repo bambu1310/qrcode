@@ -1,38 +1,38 @@
 [
     {
-        "merged": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\raw_zxing_beep.ogg.flat",
-        "source": "E:\\android\\zxing-android-embedded-master\\zxing-android-embedded\\build\\intermediates\\bundles\\debug\\res\\raw\\zxing_beep.ogg"
+        "merged": "E:\\android\\qrcode\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\layout_zxing_barcode_scanner.xml.flat",
+        "source": "E:\\android\\qrcode\\zxing-android-embedded\\build\\intermediates\\bundles\\debug\\res\\layout\\zxing_barcode_scanner.xml"
     },
     {
-        "merged": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\layout_zxing_capture.xml.flat",
-        "source": "E:\\android\\zxing-android-embedded-master\\zxing-android-embedded\\build\\intermediates\\bundles\\debug\\res\\layout\\zxing_capture.xml"
+        "merged": "E:\\android\\qrcode\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "E:\\android\\qrcode\\sample-nosupport\\src\\main\\res\\drawable-xhdpi\\icon.png"
     },
     {
-        "merged": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
-        "source": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\src\\main\\res\\drawable-hdpi\\icon.png"
+        "merged": "E:\\android\\qrcode\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\layout_fragment_scan.xml.flat",
+        "source": "E:\\android\\qrcode\\sample-nosupport\\src\\main\\res\\layout\\fragment_scan.xml"
     },
     {
-        "merged": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
-        "source": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+        "merged": "E:\\android\\qrcode\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\raw_zxing_beep.ogg.flat",
+        "source": "E:\\android\\qrcode\\zxing-android-embedded\\build\\intermediates\\bundles\\debug\\res\\raw\\zxing_beep.ogg"
     },
     {
-        "merged": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
-        "source": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\src\\main\\res\\drawable-mdpi\\icon.png"
+        "merged": "E:\\android\\qrcode\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\android\\qrcode\\sample-nosupport\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
-        "source": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\src\\main\\res\\drawable-xhdpi\\icon.png"
+        "merged": "E:\\android\\qrcode\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\android\\qrcode\\sample-nosupport\\src\\main\\res\\drawable-hdpi\\icon.png"
     },
     {
-        "merged": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\layout_fragment_scan.xml.flat",
-        "source": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\src\\main\\res\\layout\\fragment_scan.xml"
+        "merged": "E:\\android\\qrcode\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\layout_zxing_capture.xml.flat",
+        "source": "E:\\android\\qrcode\\zxing-android-embedded\\build\\intermediates\\bundles\\debug\\res\\layout\\zxing_capture.xml"
     },
     {
-        "merged": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\android\\qrcode\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "E:\\android\\qrcode\\sample-nosupport\\src\\main\\res\\drawable-xxhdpi\\icon.png"
     },
     {
-        "merged": "E:\\android\\zxing-android-embedded-master\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\layout_zxing_barcode_scanner.xml.flat",
-        "source": "E:\\android\\zxing-android-embedded-master\\zxing-android-embedded\\build\\intermediates\\bundles\\debug\\res\\layout\\zxing_barcode_scanner.xml"
+        "merged": "E:\\android\\qrcode\\sample-nosupport\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\android\\qrcode\\sample-nosupport\\src\\main\\res\\drawable-mdpi\\icon.png"
     }
 ]

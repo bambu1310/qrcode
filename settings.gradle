@@ -1,3 +1,3 @@
-include ':zxing-android-embedded', ':demo', ':weather'
+include ':zxing-android-embedded', ':ScanAndCheck', ':weather'
 include ':sample'
 include ':sample-nosupport'

@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Tue Dec 05 11:41:53 ICT 2017
+#Wed Dec 20 21:05:08 ICT 2017
 0.baseType=DIRECTORY
-0.base=E\:\\android\\zxing-android-embedded-master\\weather\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.base=E\:\\android\\qrcode\\weather\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
 0.set=DEX
 count=1

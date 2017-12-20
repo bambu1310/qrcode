@@ -1,4 +1,0 @@
-#Wed Nov 29 22:42:40 ICT 2017
-base.0=E\:\\android\\zxing-android-embedded-master\\weather\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
-renamed.0=classes.dex
-file.0=E\:\\android\\zxing-android-embedded-master\\weather\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

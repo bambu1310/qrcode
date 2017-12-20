@@ -1,4 +1,4 @@
-#Tue Dec 05 11:41:59 ICT 2017
-base.0=E\:\\android\\zxing-android-embedded-master\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+#Wed Dec 20 21:05:00 ICT 2017
+base.0=E\:\\android\\qrcode\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
