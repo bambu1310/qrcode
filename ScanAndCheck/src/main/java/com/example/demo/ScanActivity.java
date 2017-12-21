@@ -260,7 +260,8 @@ public class ScanActivity extends Activity {
                 {
                         Manifest.permission.CAMERA,
                         Manifest.permission.READ_PHONE_STATE,
-                        Manifest.permission.ACCESS_FINE_LOCATION
+                        Manifest.permission.ACCESS_FINE_LOCATION,
+                        Manifest.permission.READ_EXTERNAL_STORAGE
                 }, RequestPermissionCode);
 
     }
@@ -277,13 +278,13 @@ public class ScanActivity extends Activity {
                     boolean CameraPermission = grantResults[0] == PackageManager.PERMISSION_GRANTED;
                     boolean ReadPhoneStatePermission = grantResults[1] == PackageManager.PERMISSION_GRANTED;
                     boolean AccessFineLocation = grantResults[2] == PackageManager.PERMISSION_GRANTED;
+                    boolean ReadExternalStorage = grantResults[3] == PackageManager.PERMISSION_GRANTED;
 
-                    if (CameraPermission && ReadPhoneStatePermission && AccessFineLocation) {
+                    if (CameraPermission && ReadPhoneStatePermission && AccessFineLocation && ReadExternalStorage) {
                         Toast.makeText(ScanActivity.this, "Permission Granted", Toast.LENGTH_LONG).show();
                     }
                     else {
                         Toast.makeText(ScanActivity.this,"Permission Denied",Toast.LENGTH_LONG).show();
-
                     }
                 }
 
@@ -296,9 +297,11 @@ public class ScanActivity extends Activity {
         int FirstPermissionResult = ContextCompat.checkSelfPermission(getApplicationContext(), Manifest.permission.CAMERA);
         int SecondPermissionResult = ContextCompat.checkSelfPermission(getApplicationContext(), Manifest.permission.READ_PHONE_STATE);
         int ThirdPermissionResult = ContextCompat.checkSelfPermission(getApplicationContext(), Manifest.permission.ACCESS_FINE_LOCATION);
+        int FourdPermissionResult = ContextCompat.checkSelfPermission(getApplicationContext(), Manifest.permission.READ_EXTERNAL_STORAGE);
 
         return  FirstPermissionResult == PackageManager.PERMISSION_GRANTED &&
                 SecondPermissionResult == PackageManager.PERMISSION_GRANTED &&
-                ThirdPermissionResult == PackageManager.PERMISSION_GRANTED;
+                ThirdPermissionResult == PackageManager.PERMISSION_GRANTED &&
+                FourdPermissionResult == PackageManager.PERMISSION_GRANTED;
     }
 }

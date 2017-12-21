@@ -18,13 +18,17 @@ import android.support.design.widget.BottomNavigationView;
 import android.support.design.widget.TabLayout;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.widget.Toolbar;
+import android.text.Html;
+import android.text.Spanned;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.URLUtil;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
+import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.ToggleButton;
 
@@ -77,6 +81,11 @@ public class DetailActivity extends Activity {
     public long idFavorite;
     public String productImage;
     public String productNoImageMs;
+    public String productDesciption;
+    public String productDesLabel;
+    public boolean moreFlg;
+
+    public int constMore = 150;
 
     public HttpURLConnection urlConnection;
 
@@ -406,7 +415,21 @@ public class DetailActivity extends Activity {
                                         } else if (listBusiness.contains(key)) {
                                             codeList.add(item.getString("LabelName").toString() + ": " + item.getString("Value").toString());
                                         } else {
-                                            codeListProduct.add(item.getString("LabelName").toString() + ": " + item.getString("Value").toString());
+                                            if (key.equals("ProductDescription")) {
+                                                String des = item.getString("Value");
+                                                productDesciption = item.getString("Value");
+                                                productDesLabel = item.getString("LabelName");
+                                                moreFlg = false;
+
+                                                if (productDesciption.length() > constMore) {
+                                                    des = productDesciption.substring(0, constMore) + "... (+)";
+                                                    moreFlg = true;
+                                                }
+
+                                                codeListProduct.add(item.getString("LabelName").toString() + ": " + des.toString());
+                                            } else {
+                                                codeListProduct.add(item.getString("LabelName").toString() + ": " + item.getString("Value").toString());
+                                            }
                                         }
                                     } catch (JSONException e) {
                                         // Something went wrong!
@@ -510,7 +533,6 @@ public class DetailActivity extends Activity {
                             listViewProduct.addFooterView(btnFavorite);
                             listView.addFooterView(btnFavorite);
 
-
                             ImageView imageHeaderView = new ImageView(DetailActivity.this);
                             Picasso.with(getApplicationContext()).load(productImage).into(imageHeaderView);
 
@@ -523,6 +545,23 @@ public class DetailActivity extends Activity {
                                     codeListProduct.add(0, productImageLabel + ": " + productImage);
                                 }
                             }
+
+                            listViewProduct.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                                @Override
+                                public void onItemClick(AdapterView<?> parent, View view,
+                                                        int position, long id) {
+                                    //Toast.makeText(getApplicationContext(), String.valueOf(position), Toast.LENGTH_LONG).show();
+                                    if (position == 5 && moreFlg && productDesciption.length() > constMore) {
+                                        //Spanned html = Html.fromHtml("<b>" + productDesLabel + "</b>: " + productDesciption);
+                                        ((TextView)view).setText(productDesLabel.toString() + ": " + productDesciption.toString());
+                                        moreFlg = false;
+                                    } /*else if (position == 5 && !moreFlg && productDesciption.length() > constMore) {
+                                        String des = productDesciption.substring(0, constMore) + "... (+)";
+                                        ((TextView)view).setText(productDesLabel.toString() + ": " + des);
+                                        moreFlg = true;
+                                    }*/
+                                }
+                            });
                         }
 
                         codeList.add(0, statusMessage);
